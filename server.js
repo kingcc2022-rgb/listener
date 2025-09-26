@@ -40,4 +40,4 @@ app.get('/admin', (req, res) => {
 });
 
 // 启动服务器
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, () => console.log(`Server running on port ${10000}`));
